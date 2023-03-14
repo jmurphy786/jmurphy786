@@ -1,4 +1,7 @@
-** .NET Developer / React /Typescript 👋
+** .NET Developer / React /Typescript ** 👋
+
+I'm a full-stack developer primarily focussed on .Net and React.
+
 
 ### Languages and Tools
 
